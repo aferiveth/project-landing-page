@@ -131,5 +131,8 @@ h2 {
 }
 
 .button2 {
-    border: #E5E7EB;
+    border: 2px solid #E5E7EB;
+    padding: 3px 10px;
+    margin: 30px;
+    font-weight: bold;
 }
