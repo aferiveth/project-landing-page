@@ -136,3 +136,12 @@ h2 {
     margin: 30px;
     font-weight: bold;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
